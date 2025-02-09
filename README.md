@@ -1,2 +1,2 @@
 # new project
-this is a new project - by vidushi
+this is a new project - by vidushi.
